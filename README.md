@@ -1,5 +1,5 @@
 ﻿# Movie-Website
-A website for Viewing movie information and adding reviews.
+A website for Viewing movie information such as descriptions, trailers etc and adding reviews.
 
 React js is used for Front-end client side and Spring-Boot is used for backend server side.
 
